@@ -1,0 +1,4 @@
+# Video-Audio-Chatting
+A software that uses OpenCV and Sockets to retrieve frames from web-cam and sending the stream over network between server and client and back (Two-Way Communication) with audio from mic of one to another.
+Languages - Java, OpenCV, Sockets
+contact ripusudan@outlook.in for project.
